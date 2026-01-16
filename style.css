@@ -1,0 +1,44 @@
+*{
+    margin: 3px;
+    padding: 0;
+
+}
+
+i{
+  font-size: 350%;
+
+}
+
+.photolab{
+    display: flex;
+    
+}
+
+.icon{
+    margin: 30px ;
+    padding: 30px;
+}
+
+.icon::content{
+    display: flex;
+    justify-content: center;
+}
+
+.lien{
+ 
+    color: black;
+}
+.text{
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.ti{
+        color: #767676;
+        font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.top{
+    font-family: "Acumin Pro ExtraCondensed", Arial, sans-serif;
+}
+.photo{
+   
+}
