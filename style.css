@@ -19,26 +19,37 @@ i{
     padding: 30px;
 }
 
-.icon::content{
-    display: flex;
-    justify-content: center;
-}
+.icony{
+    display:flex;
+flex-direction:column;
+align-items:last baseline;
+
+ }
 
 .lien{
  
     color: black;
 }
-.text{
+p{
     font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+
 }
 .ti{
         color: #767676;
         font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 13px;
 }
 
 .top{
     font-family: "Acumin Pro ExtraCondensed", Arial, sans-serif;
+   font-weight: 900;
+   line-height: 57px;
+   text-transform: uppercase;
+  box-sizing: border-box;
 }
-.photo{
-   
+.test{
+ display: flex; 
+justify-content: end;
 }
